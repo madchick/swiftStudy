@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios'>
+    <pages>
+        <page name='Variables &amp; Constants'/>
+        <page name='Types'/>
+        <page name='Operators'/>
+        <page name='Collections'/>
+        <page name='Control Flow'/>
+        <page name='Functions'/>
+        <page name='Class &amp; Structure'/>
+        <page name='Inheritance'/>
+        <page name='Initialization'/>
+        <page name='Optional'/>
+    </pages>
+</playground>
